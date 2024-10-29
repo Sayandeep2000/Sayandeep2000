@@ -17,9 +17,9 @@ Database Management: exploring various kind of DBMS
 
 🌱 I’m currently learning ...
 
-Advanced techniques in reinforcement learning and generative adversarial networks (GANs).
+Advanced techniques in reinforcement learning and Artificial Intelligence.
 
-Exploring cloud-based AI solutions and MLOps to streamline machine learning workflows.
+Exploring  AI solutions and machine learning workflows.
 
 Enhancing my skills in big data technologies like Hadoop and Spark.
 
